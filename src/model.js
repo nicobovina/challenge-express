@@ -42,7 +42,7 @@ Model.prototype.attend = function(name, date){
 		return undefined;
 	}
 }
-
+true
 // Recibe un nombre de cliente y una cita
 // Modifica el status de la cita a attended
 // Devuelve la cita
